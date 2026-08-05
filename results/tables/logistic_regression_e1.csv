@@ -1,0 +1,5 @@
+Model,Season,Macro F1,Macro AUC,G-Mean
+Logistic Regression,Winter,0.5806,0.8619,0.7504
+Logistic Regression,Summer,0.5611,0.8638,0.7229
+Logistic Regression,Monsoon,0.3993,0.6843,0.0154
+Logistic Regression,Post_monsoon,0.6501,0.9283,0.827
