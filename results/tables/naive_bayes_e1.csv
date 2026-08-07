@@ -1,0 +1,5 @@
+Model,Season,Macro F1,Macro AUC,G-Mean
+Naive Bayes,Winter,0.5609,0.7911,0.7173
+Naive Bayes,Summer,0.4238,0.7999,0.5927
+Naive Bayes,Monsoon,0.3939,0.7231,0.5497
+Naive Bayes,Post_monsoon,0.5481,0.9144,0.763
