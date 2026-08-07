@@ -1,0 +1,5 @@
+Model,Season,Macro F1,Macro AUC,G-Mean
+Random Forest,Winter,0.727,0.8919,0.6736
+Random Forest,Summer,0.6066,0.8222,0.6135
+Random Forest,Monsoon,0.418,0.5943,0.0157
+Random Forest,Post_monsoon,0.7077,0.9124,0.7957

@@ -1,0 +1,21 @@
+Season,Class,Precision,Recall,F1-Score,Support
+Winter,Caution,0.7623,0.7289,0.7452,1210
+Winter,Hazardous,0.7587,0.8003,0.779,1277
+Winter,Healthy,0.88,0.5238,0.6567,42
+Winter,macro avg,0.8003,0.6843,0.727,2529
+Winter,weighted avg,0.7625,0.7616,0.7608,2529
+Summer,Caution,0.8544,0.7481,0.7977,2259
+Summer,Hazardous,0.7218,0.6766,0.6985,303
+Summer,Healthy,0.2508,0.4563,0.3236,366
+Summer,macro avg,0.609,0.627,0.6066,2928
+Summer,weighted avg,0.7652,0.7042,0.7282,2928
+Monsoon,Caution,0.5348,0.5567,0.5455,1216
+Monsoon,Hazardous,0.0,0.0,0.0,2
+Monsoon,Healthy,0.7175,0.6995,0.7084,1957
+Monsoon,macro avg,0.4174,0.4188,0.418,3175
+Monsoon,weighted avg,0.6471,0.6444,0.6456,3175
+Post_monsoon,Caution,0.9278,0.8003,0.8594,1237
+Post_monsoon,Hazardous,0.4807,0.7362,0.5816,254
+Post_monsoon,Healthy,0.5673,0.8551,0.6821,69
+Post_monsoon,macro avg,0.6586,0.7972,0.7077,1560
+Post_monsoon,weighted avg,0.8391,0.7923,0.8063,1560
