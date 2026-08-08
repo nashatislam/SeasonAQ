@@ -1,0 +1,5 @@
+Model,Season,Macro F1,Macro AUC,G-Mean
+k-NN,Winter,0.6011,0.8127,0.6837
+k-NN,Summer,0.5238,0.7402,0.6247
+k-NN,Monsoon,0.3851,0.5751,0.015
+k-NN,Post_monsoon,0.5635,0.8536,0.7624
