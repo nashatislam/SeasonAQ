@@ -1,0 +1,5 @@
+Model,Season,Macro F1,Macro AUC,G-Mean
+Decision Tree,Winter,0.6059,0.7202,0.6514
+Decision Tree,Summer,0.4886,0.617,0.503
+Decision Tree,Monsoon,0.3794,0.5467,0.0147
+Decision Tree,Post_monsoon,0.569,0.7263,0.6653
