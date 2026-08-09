@@ -1,0 +1,5 @@
+Model,Training Data,Test Season,Macro F1,Macro AUC,G-Mean
+Random Forest,Pooled (Universal),Winter,0.6192,0.8981,0.5158
+Random Forest,Pooled (Universal),Summer,0.6506,0.8607,0.5899
+Random Forest,Pooled (Universal),Monsoon,0.3701,0.6713,0.0128
+Random Forest,Pooled (Universal),Post_monsoon,0.7316,0.9262,0.8216

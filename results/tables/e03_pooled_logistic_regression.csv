@@ -1,0 +1,5 @@
+Model,Training Data,Test Season,Macro F1,Macro AUC,G-Mean
+Logistic Regression,Pooled (Universal),Winter,0.5367,0.8787,0.4609
+Logistic Regression,Pooled (Universal),Summer,0.671,0.8592,0.6828
+Logistic Regression,Pooled (Universal),Monsoon,0.3659,0.7251,0.0127
+Logistic Regression,Pooled (Universal),Post_monsoon,0.736,0.9365,0.8628
